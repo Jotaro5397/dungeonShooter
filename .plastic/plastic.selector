@@ -1,0 +1,4 @@
+repository "zombie@jeremylamb@cloud"
+  path "/"
+    br "/main"
+    co "/main"
